@@ -1,6 +1,6 @@
 # CODSOFT
 
-UI/UX INTERNSHIP
+UI/UX INTERNSHIP [COMPLETE ATLEAST 3 TASKS]
 
 TASK 1 LINK:
 https://www.figma.com/design/PazZxL3r5hZcdpJZ7JtXg6/task1?node-id=0-1&t=Hwhvg8MG40wQMTzF-1
